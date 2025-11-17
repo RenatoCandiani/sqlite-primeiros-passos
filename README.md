@@ -3,7 +3,7 @@
 Repositório com os desafios realizados no curso **SQLite Online: conhecendo instruções SQL** da [Alura](https://www.alura.com.br).
 
 ## Sobre
-Cada pasta representa uma aula do curso.  
+Cada pasta representa uma aula do curso (contendo exclusivamente desafios).  
 Aqui estão os desafios propostos, feitos com o objetivo de praticar SQL e aplicar os conceitos aprendidos sobre bancos de dados relacionais.
 
 ## Tecnologias utilizadas
