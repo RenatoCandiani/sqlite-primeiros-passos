@@ -8,7 +8,7 @@ Aqui estão os desafios propostos, feitos com o objetivo de praticar SQL e aplic
 
 ## Tecnologias utilizadas
 - MySQL WorkBench 8.0
-- SQLiteOnline  
+- SQLite Online  
 - VS Code  
 
 ## Observação
